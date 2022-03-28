@@ -164,7 +164,7 @@
     }
     
     .car {
-        background: url('/media/car.png') center no-repeat;
+        background: url('../media/car.png') center no-repeat;
         background-size: 35px;
     }
     
